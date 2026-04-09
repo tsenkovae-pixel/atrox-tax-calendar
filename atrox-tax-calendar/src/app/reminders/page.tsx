@@ -2,7 +2,7 @@
 
 import React, { useEffect, useState } from 'react';
 import { TaxTask } from '@/types/tax';
-import { taxCalendarData } from '@/data/taxCalendar';
+import { taxCalendarData } from '@/data/taxTasks';
 
 interface Notification {
   id: string;
